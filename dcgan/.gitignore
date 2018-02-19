@@ -1,0 +1,6 @@
+models/*
+cifar10_data/*
+samples/*
+logs/*
+!.gitkeep
+
