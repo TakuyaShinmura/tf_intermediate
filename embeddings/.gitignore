@@ -1,0 +1,6 @@
+*.tsv
+models/*
+data/*
+logs/*
+!.gitkeep
+
